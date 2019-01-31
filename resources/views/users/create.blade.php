@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <h1 style="color: black; font-size: 200px">Register New User</h1>
+    <h1 style="color: black; font-size: 100px">Register New User</h1>
 
 
     <hr/>
