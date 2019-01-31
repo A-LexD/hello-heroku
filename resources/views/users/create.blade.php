@@ -2,7 +2,7 @@
 
 @section('content')
 <<<<<<< HEAD
-    <h1 style="color: blueviolet">Register New User</h1>
+    <h1 style="color: red">Register New User</h1>
 =======
     <h1 style="color:green;">Register New User</h1>
 >>>>>>> 9e45c8e03daee1af3548611f52a80c998e65cfa6
