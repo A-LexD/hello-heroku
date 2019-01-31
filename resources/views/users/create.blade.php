@@ -2,11 +2,15 @@
 
 @section('content')
  
-    <h1 style="color: blue">Register New User</h1>
  
-    <h1 style="color:blue;">Register New User</h1>
+   
+ 
+    <h1 style="color: red">Register New User</h1>
+ 
+    <h1 style="color:red;">Register New User</h1>
 
-    <h1 style="color:blue;">Register New User</h1>
+    <h1 style="color:red;">Register New User</h1>
+ 
      <hr/>
 
     {!! Form::open(['url' => '/user', 'class' => 'form-horizontal', 'role' => 'form']) !!}
